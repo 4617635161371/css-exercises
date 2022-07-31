@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
+}
+
+.alt {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
