@@ -1,5 +1,5 @@
 .odd {
-    background-color: lightpink;
+    background-color: rgb(255, 167, 167);
     font-family: 'Verdana', 'DejaVu sans', 'sans-serif';
 }
 
@@ -13,7 +13,7 @@
 }
 
 #two {
-    background-color: lightgreen;
+    background-color: hsl(120, 100%, 75%);
     font-size: 24;
     font-weight: bold;
 }
